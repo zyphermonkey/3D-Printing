@@ -19,7 +19,7 @@
     Recv: #define DEFAULT_Kd 75.57
     ```
 
-- Take PID out and enter into system
+- Take PID out and enter into system  
     `M301 P12.90 I0.55 D75.57`
 
     Example output:
@@ -28,7 +28,7 @@
     M301 P12.90 I0.55 D75.57
     ```
 
-- Save the new values
+- Save the new values  
     `M500`
 
     Example output:  
